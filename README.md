@@ -22,3 +22,24 @@
   </br>
   <td>(Dept. of Computer Science and Engineering)</td>
  </tr>
+
+
+## Abstract
+
+The objective of the research is to analyse luxury hotel pictures posted online in social
+media by the tourists to understand the different hotel attributes (bedroom, living
+room, dinner room, restaurant etc.,) influencing the consumer evaluation of luxury hotel
+brands.
+Users seek out hotel photos before making a decision to book. The research evaluates
+consumers’ visual data on TripAdvisor through a deep learning approach. Four different
+deep CNN architectures were trained and compared, of which EfficientNet B4
+performed the best, hence was used to classify the images in actual dataset.
+Results shed light on the significant part of non-textual elements of the hotel
+experience such as pictures, which cannot be explored through traditional methods. In
+particular, the analysis of 9,251 consumers’ pictures leads to the identification of the
+attributes that had the higher impact on their experience. These attributes emerged as
+specific features of interior elements of the hotels (restaurant, bedroom and bathroom).
+Finally, the study shows how deep learning algorithms can -
+● help monitoring social media and understand consumers perception of luxury
+hotels through the new analysis of visual data, and
+● turn into better brand management strategies for luxury hotel managers
