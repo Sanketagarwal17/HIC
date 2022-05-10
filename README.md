@@ -5,7 +5,7 @@ Table of Contents :bookmark_tabs:
 =================
 - [Authors](#authors)
 - [Abstract](#abstract)
-- [Steps to Use the Application](#steps-to-Use-the-application)
+- [Steps to Use the Application](#steps-to-use-the-application)
 - [Tech Stack Used](#tech-stack-used)
 
 ## Authors
@@ -15,20 +15,20 @@ Table of Contents :bookmark_tabs:
   <td>By</td>
   <br/>
   <td>Ali Asgar Saifee (18JE0077)</td>
-  </br>
+  <br/>
   <td>Chirag Jain (18JE0254)</td>
-  </br>
+  <br/>
   <td>Sanket Agarwal (18JE0730)</td>
-  </br>
+  <br/>
 </tr>
 
 ### Under the guidance of
 
 <tr>
   <td>Prof. Rajendra Pamula</td>
-  </br>
+  <br/>
   <td>Assistant Professor</td>
-  </br>
+  <br/>
   <td>(Dept. of Computer Science and Engineering)</td>
  </tr>
 
@@ -39,27 +39,25 @@ The objective of the research is to analyse luxury hotel pictures posted online 
 media by the tourists to understand the different hotel attributes (bedroom, living
 room, dinner room, restaurant etc.,) influencing the consumer evaluation of luxury hotel
 brands.
-</br>
-</br>
+<br/>
+<br/>
 Users seek out hotel photos before making a decision to book. The research evaluates
 consumers’ visual data on TripAdvisor through a deep learning approach. Four different
 deep CNN architectures were trained and compared, of which EfficientNet B4
 performed the best, hence was used to classify the images in actual dataset.
-</br>
-</br>
+<br/>
+<br/>
 Results shed light on the significant part of non-textual elements of the hotel
 experience such as pictures, which cannot be explored through traditional methods. In
 particular, the analysis of 9,251 consumers’ pictures leads to the identification of the
 attributes that had the higher impact on their experience. These attributes emerged as
 specific features of interior elements of the hotels (restaurant, bedroom and bathroom).
-</br>
-</br>
-Finally, the study shows how deep learning algorithms can -
-</br>
-● help monitoring social media and understand consumers perception of luxury
+<br/>
+<br/>
+Finally, the study shows how deep learning algorithms can:
+- help monitoring social media and understand consumers perception of luxury
 hotels through the new analysis of visual data, and
-</br>
-● turn into better brand management strategies for luxury hotel managers
+- turn into better brand management strategies for luxury hotel managers
 
 ## Steps to Use the Application
 
