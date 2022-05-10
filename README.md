@@ -44,6 +44,7 @@ particular, the analysis of 9,251 consumers’ pictures leads to the identificat
 attributes that had the higher impact on their experience. These attributes emerged as
 specific features of interior elements of the hotels (restaurant, bedroom and bathroom).
 </br>
+</br>
 Finally, the study shows how deep learning algorithms can -
 </br>
 ● help monitoring social media and understand consumers perception of luxury
