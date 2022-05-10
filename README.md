@@ -6,6 +6,7 @@
 <tr>
   <td>By</td>
   <td>Ali Asgar Saifee (18JE0077)</td>
+  </br>
   <td>Chirag Jain (18JE0254)</td>
   <td>Sanket Agarwal (18JE0730)</td>
 </tr>
