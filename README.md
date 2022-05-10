@@ -1,6 +1,14 @@
 # Hotel Image Classification(HIC)
-## Identification of attributes influencing customer evaluation of luxury hotel brands using hotel images 
 
+## Identification of attributes influencing customer evaluation of luxury hotel brands using hotel images 
+Table of Contents :bookmark_tabs:
+=================
+- [Authors](#authors)
+- [Abstract](#abstract)
+- [Steps to Use the Application](#steps-to-Use-the-application)
+- [Tech Stack Used](#tech-stack-used)
+
+## Authors
 ###  Submitted in fulfilment of the requirements for award of degree Bachelor of Technology in Computer Science and Engineering
 
 <tr>
@@ -13,7 +21,7 @@
   </br>
 </tr>
 
-## Under the guidance of
+### Under the guidance of
 
 <tr>
   <td>Prof. Rajendra Pamula</td>
@@ -51,3 +59,18 @@ Finally, the study shows how deep learning algorithms can -
 hotels through the new analysis of visual data, and
 </br>
 ● turn into better brand management strategies for luxury hotel managers
+
+## Steps to Use the Application
+
+- Clone the repository onto your own local machine
+- Download models folder from [here](https://drive.google.com/drive/folders/16gc0LcNiMgtSSS2wLwtc1qFLHwkEur9z?usp=sharing) as .zip and extract it inside the repository. 
+- Open command prompt/terminal
+- Run pip install -r requirements.txt
+- Type ‘streamlit run app.py’ in the command prompt/terminal
+- A localhost address should automatically open in your web browser. If not, copy the local URL from the command prompt/terminal into your web browser.
+- Click 'Browse files' and upload an image file in .jpg format.
+- It would show the prediction of HIC model.
+
+## Tech Stack Used
+- Python: Version 3.7.4
+- Packages: PIL, torchvision, torch, streamlit, albumentations, efficientnet_pytorch
