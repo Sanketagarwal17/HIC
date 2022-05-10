@@ -13,6 +13,7 @@ Table of Contents :bookmark_tabs:
 
 <tr>
   <td>By</td>
+  <br/>
   <td>Ali Asgar Saifee (18JE0077)</td>
   </br>
   <td>Chirag Jain (18JE0254)</td>
